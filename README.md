@@ -3,7 +3,7 @@
 <p>I live and study in Mexico City. 🌮</p>
 <p>I'm studying on my own to be a full stack developer.<br>
 And in college they are teaching me software programming.</p>
-<p>My knowledge to date are: HTML, CSS, JS and a bit of PYTHON</p>
+<p>My knowledge to date are: HTML, CSS, JAVASCRIPT and a bit of PYTHON</p>
 <p>you can find me on:</p>
 <ul>
 <li>My Website (Soon)</li>
